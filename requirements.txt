@@ -1,0 +1,7 @@
+mido
+numpy
+pyFLAC
+lameenc
+scipy
+soundfile
+python-docx
