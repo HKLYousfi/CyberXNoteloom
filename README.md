@@ -73,6 +73,11 @@ As a music enthusiast, electromechanical, and marine engineer, I (Haykel Yousfi)
 - Python 3.6 or higher
 - FFmpeg must be installed and available in your PATH.
 
+## Donate with PayPal
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/HaykelYousfi?country.x=FR&locale.x=fr_FR)
+
+
 ### Python Dependencies
 
 Install the required packages using:
