@@ -14,7 +14,7 @@ CyberXNoteloom is a fully optimized, professional-grade digital piano solution t
 
 This project was created for a noble cause—to empower those passionate about piano but who cannot afford expensive instruments. CyberXNoteloom enables aspiring musicians (including children) to practice and develop their skills by providing a full, software-based digital piano experience.
 
-As a music enthusiast, electromechanical, and marine engineer, I (Haykel Yousfi) believe that music should be accessible to everyone. Your support fosters further innovative projects and encourages building high-quality musical tools.
+As a music enthusiast, electromechanical, and marine engineer, I (Haykel Yousfi) believe that music should be accessible to everyone. Your support fosters further innovative projects and encourages building high-quality musical tools. [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/HaykelYousfi?country.x=FR&locale.x=fr_FR)
 
 ---
 
